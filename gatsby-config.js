@@ -1,14 +1,10 @@
 module.exports = {
 	siteMetadata: {
-		title: 'Dunia',
+		title: 'WDG',
 		author: 'Steve Marvins',
-		imageUrl: 'https://i.imgur.com/Vz81GEl.png',
+		imageUrl: 'https://i.imgur.com/le8YFRa.png',
 		description: 'A simple site to showcase my experience using Gatsby',
 		keywords: `Web developer, Web, Developer, CSS, HTML, JS, Javascript, Gatsby, Bulma Developer, CSS3, HTML5, Seo, Starter`,
-		twitter: 'https://twitter.com/amanhimself',
-		github: `https://github.com/amandeepmittal`,
-		medium: 'https://medium.com/@amanhimself',
-		gatsby: 'https://www.gatsbyjs.org/',
 		bulma: 'https://bulma.io/',
 		siteUrl: `https://www.example.com`
 	},
