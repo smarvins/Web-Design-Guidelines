@@ -7,7 +7,7 @@
 
 ## Demo 💯
 
-- [Demo Link](https://tender-raman-99e09b.netlify.com/)
+- [Demo Link](https://stevemarvins-web-design-guidlines.netlify.app/)
 
 ## Features 🚀
 
