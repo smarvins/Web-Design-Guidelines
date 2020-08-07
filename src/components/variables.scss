@@ -1,4 +1,20 @@
-// VARIABLES
+//CUSTOM VARIABLES
+$font-stack: 'Pontano Sans', sans-serif;
+$primary-color: #222831;
+$text-color:#00adb5;
+$header-color:#00fff5;
+$box-color:#393e46;
 
-$primary-color: #2980b9;
-$secondary-color: #6dd5fa;
+//BULMA VARIABLES
+$title-color: $header-color;
+$subtitle-color: $text-color;
+  //hero body//
+$hero-body-padding: 3rem 0.5rem;
+  //text size//
+$is-size-1: 1rem;
+  //tabs//
+$tabs-boxed-link-hover-background-color: $header-color;
+$tabs-link-color: $text-color;
+$tabs-link-hover-color: $box-color;
+$tabs-link-padding: 0.5rem 0.5rem;
+$tabs-boxed-link-radius: 0px;
