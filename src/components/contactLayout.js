@@ -23,7 +23,7 @@ const ContactLayout = ({ siteTitle }) => (
 			  <div class="column">
 				   <div class="container">
 				     <p class="subtitle is-4">You can pretty much reach me anytime by contacting me through my <a href="http://www.stevemarvins.dev@gmail.com/">email</a> <br/> or visit my <a href="www.linkedin.com/in/stevemarvins-dev">LinkedIn page</a> for more :)</p>
-						 <p class="subtitle is-4">Wanna have a look at my <a href="https://shavolski.github.io/Showcase/">portfolio?</a></p>
+						 <p class="subtitle is-4">Wanna have a look at my <a href="https://steve-marvins.netlify.app/">portfolio?</a></p>
 				   </div>
 			  </div>
 			</div>
